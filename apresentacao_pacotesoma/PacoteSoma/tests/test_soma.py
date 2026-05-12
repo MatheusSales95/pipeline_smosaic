@@ -1,4 +1,4 @@
-from pacotesoma import soma
+from repositorio.apresentacao_pacotesoma.pacotesoma.pacotesoma import soma
 
 
 def test_soma_com_inteiros():

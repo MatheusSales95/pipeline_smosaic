@@ -30,3 +30,7 @@ def soma(a, b):
         return "Only integer or float numbers allowed"
     resultado = a + b
     return resultado
+
+def hello():
+    print("Hello World!")
+
